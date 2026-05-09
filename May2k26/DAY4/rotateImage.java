@@ -39,5 +39,6 @@ public class rotateImage {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

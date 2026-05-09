@@ -30,5 +30,6 @@ class longestConsecutiveSequence {
         }
         int longest = longestConsecutive(nums);
         System.out.println(longest);
+        sc.close();
     }
 }

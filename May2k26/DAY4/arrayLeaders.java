@@ -27,5 +27,6 @@ public class arrayLeaders {
         for(int leader : leaders){
             System.out.print(leader + " ");
         }
+        sc.close();
     }
 }

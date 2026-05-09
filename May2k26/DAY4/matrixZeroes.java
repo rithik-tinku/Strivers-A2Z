@@ -40,5 +40,6 @@ public class matrixZeroes {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
